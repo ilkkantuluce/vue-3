@@ -52,6 +52,7 @@ methods: {
         this.name = ''
         this.review = ''
         this.rating = null
+        this.recommend = ''
     }
 }
 })
